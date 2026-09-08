@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Mis Finanzas",
+    "slug": "mis-finanzas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#EDE8DC"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tuempresa.misfinanzas"
+    },
+    "android": {
+      "package": "com.tuempresa.misfinanzas",
+      "adaptiveIcon": {
+        "backgroundColor": "#EDE8DC"
+      },
+      "permissions": [
+        "NOTIFICATIONS",
+        "SCHEDULE_EXACT_ALARM"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "color": "#1C2E28"
+        }
+      ],
+      "expo-status-bar",
+      "expo-sharing"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fac46080-f40b-4d89-b77d-f62948c7d096"
+      }
+    }
+  }
+}
