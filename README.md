@@ -93,3 +93,9 @@ El `SafeAreaView` de `react-native` **no aplica el margen superior en Android**,
 ## Personalizar
 
 - Categorías de gastos fijos o express, iconos, notificaciones de vencimiento próximo, o filtros/gráficas en el Excel son fáciles de agregar sobre esta base — el estado vive todo en `App.js` y se pasa a cada pantalla por props.
+
+---
+
+<a href="https://avirexis.com/?utm_source=github&utm_medium=readme&utm_campaign=mis-finanzas-app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://avirexis.com/avx-logo-nav-white.png"><img src="https://avirexis.com/avx-logo-nav.png" alt="Avirexis" height="22"></picture></a>
+
+Hecho por [Avirexis](https://avirexis.com/?utm_source=github&utm_medium=readme&utm_campaign=mis-finanzas-app), software de gestión para negocios hecho en Colombia.
